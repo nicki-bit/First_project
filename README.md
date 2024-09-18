@@ -1,1 +1,52 @@
-This is my first project i have done.It's very easy c# project,where i create a insert button,delete button,update button and a search button.Here i take some values like ID,Name and Semester.If i want to insert values,then i have to give values properly,and tap insert button.If i want to delete a values of a person,then i have to push just ID value and tap delete button.Similarly ,if i want a see a person details,then i have to push the ID values and tap the search button.But the different is update button,if i want to update a value then i have to give the ID value and what i change Name and Semester value,and this value have to push there and tap the update button,then ok for update.Here one values are common that is ID values.I did all the work keeping ID value is same.
+# Simple CRUD Application
+
+## Overview
+
+This is a basic CRUD (Create, Read, Update, Delete) application implemented in C#. It demonstrates essential database operations and provides a simple interface for managing records. This application serves as a practical example for learning and understanding CRUD functionalities using .NET.
+
+## Features
+
+- **Insert**: Add new records.
+- **Update**: Modify existing records.
+- **Delete**: Remove records.
+- **Search**: Find records based on specific criteria.
+
+## Prerequisites
+
+- [.NET SDK](https://dotnet.microsoft.com/download) (version X.X or later)
+- A code editor or IDE (e.g., [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/))
+
+## Getting Started
+
+1. **Clone the Repository**
+
+   ```sh
+   git clone https://github.com/yourusername/your-repository-name.git
+2. **Navigate to the Project Directory**
+
+sh
+Copy code
+cd your-repository-name
+Build the Project
+
+sh
+Copy code
+dotnet build
+Run the Application
+
+sh
+Copy code
+dotnet run
+Usage
+Insert: Follow the prompts to add new records.
+Update: Search for a record by its ID and update its details.
+Delete: Locate and remove a record by its ID.
+Search: Use search functionality to find records by specified criteria.
+Contributing
+Contributions are welcome! To contribute, fork the repository, create a new branch, make your changes, and submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgements
+Thanks to the .NET community and various online resources for providing valuable guidance and support.
